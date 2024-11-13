@@ -91,6 +91,6 @@ rtsp://guest:HelloShifu@localhost:3000
 ```
 
 ## Reference
-* https://shifu.dev/docs/guides/install/install-shifu-prod
-* https://docs.cloud.shifu.dev/docs/how-to/device/protocols/tcp-protocol/
-* https://cloud.shifu.dev/#/user/login
+* [Shifu Installation Guide](https://shifu.dev/docs/guides/install/install-shifu-prod)
+* [TCP Protocol Setup Guide](https://docs.cloud.shifu.dev/docs/how-to/device/protocols/tcp-protocol/)
+* [Shifu Cloud](https://cloud.shifu.dev/#/user/login)
