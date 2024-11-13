@@ -1,4 +1,4 @@
-# Kubernetes-Shifu-Installation Guide
+# Kubernetes-Shifu-Installation-Guide
 
 ## Prerequisites
 
